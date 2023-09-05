@@ -1,2 +1,9 @@
-# Algorithmic-Trading
-Automating financial market trading through software. Contains some test trading strategies.
+### Some categories
+
+--Basics (__Finance terminologies__)
+--Risk Management
+--Indicators
+--Strategies
+--Trading system development
+--Generics
+--Niche
