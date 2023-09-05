@@ -1,0 +1,3 @@
+Momentum trading - A trading strategy in which investors buy securities that are rising and sell them when they look to have peaked
+
+Value trading - Investing in stocks that are trading below their perceived intrinsic value
